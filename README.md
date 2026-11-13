@@ -45,6 +45,27 @@ flowchart LR
 - **ETL** with Power Query (M) to bring the sources together
 - **Data modeling** and **DAX** measures for the lead → buyer analysis
 - **Report design** focused on a marketing audience
+- Data source: a **CSV refreshed daily** with **Google Analytics 4 (GA4)** extractions
+
+## 🚀 Results
+
+| | |
+|---|---|
+| 📈 **+10%** | lead conversion through clustering by behavior and traffic source |
+| 🎯 **Better targeting** | lead profiles with the highest propensity to convert identified |
+
+## 📸 Dashboard gallery
+
+<table>
+  <tr>
+    <td width="50%" align="center"><img src="img/01.png" /><br/><sub><b>Home</b> · navigation: Buyers, Leads, Correlations</sub></td>
+    <td width="50%" align="center"><img src="img/02.png" /><br/><sub><b>Buyers</b> · states, gender, age, income, education</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><img src="img/03.png" /><br/><sub><b>Leads</b> · states, retention, age, region map</sub></td>
+    <td width="50%" align="center"><img src="cover.jpg" /><br/><sub><b>Correlations</b> for new leads</sub></td>
+  </tr>
+</table>
 
 ---
 
